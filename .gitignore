@@ -175,6 +175,7 @@ dmypy.json
 
 # MLflow
 mlruns/
+mlartifacts/
 # Pyre type checker
 .pyre/
 
